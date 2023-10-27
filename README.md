@@ -1,2 +1,2 @@
-# VR_-bungen
+# VR_Uebungen
 Übungsprojekt in VR
