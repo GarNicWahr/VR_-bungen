@@ -3020,13 +3020,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 396823510}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0.38268343, y: 0, z: 0, w: 0.92387956}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4809505777395726078}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -45, y: 0, z: 0}
 --- !u!1001 &410270532
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4484,13 +4484,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 678516543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027701494}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &695569186
 GameObject:
   m_ObjectHideFlags: 0
@@ -7343,13 +7343,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1092806473}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 763037573}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1001 &1097693421
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12312,7 +12312,7 @@ MonoBehaviour:
       m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 4ecdfb2f-11aa-4f32-b620-82926dccc4a2
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -12324,7 +12324,7 @@ MonoBehaviour:
       m_Name: Tracking State
       m_Type: 0
       m_ExpectedControlType: Integer
-      m_Id: 
+      m_Id: 7e78147e-f332-43b7-a70f-92b14e01fbfd
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -12348,7 +12348,7 @@ MonoBehaviour:
       m_Name: Select Value
       m_Type: 0
       m_ExpectedControlType: Axis
-      m_Id: 
+      m_Id: fff1148a-8ed6-4d15-99e2-5b8ac5f27f8d
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -12372,7 +12372,7 @@ MonoBehaviour:
       m_Name: Activate Value
       m_Type: 0
       m_ExpectedControlType: Axis
-      m_Id: 
+      m_Id: 3cdbb411-7439-4f4c-a243-951aef81089a
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -12396,7 +12396,7 @@ MonoBehaviour:
       m_Name: UI Press Value
       m_Type: 0
       m_ExpectedControlType: Axis
-      m_Id: 
+      m_Id: e1852e8e-a16c-40c9-b3ba-304c9e543881
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -12408,7 +12408,7 @@ MonoBehaviour:
       m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: 3f0c7baf-5e5c-47f2-8d04-72dff1243ed6
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -12444,7 +12444,7 @@ MonoBehaviour:
       m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: 63b860ce-4b14-4e2a-9276-f5a5bc31011b
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
