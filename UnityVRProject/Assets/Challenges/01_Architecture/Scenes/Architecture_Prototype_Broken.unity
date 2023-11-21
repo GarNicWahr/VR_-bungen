@@ -14181,7 +14181,7 @@ MonoBehaviour:
   m_HapticHoverCancelIntensity: 0
   m_HapticHoverCancelDuration: 0
   m_AllowHoverHapticsWhileSelecting: 1
-  m_LineType: 1
+  m_LineType: 2
   m_BlendVisualLinePoints: 1
   m_MaxRaycastDistance: 30
   m_RayOriginTransform: {fileID: 0}
@@ -14270,7 +14270,7 @@ MonoBehaviour:
   m_SetLineColorGradient: 1
   m_ValidColorGradient:
     serializedVersion: 2
-    key0: {r: 1, g: 1, b: 1, a: 1}
+    key0: {r: 1, g: 1, b: 1, a: 0}
     key1: {r: 1, g: 1, b: 1, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
@@ -14295,12 +14295,12 @@ MonoBehaviour:
     atime6: 0
     atime7: 0
     m_Mode: 0
-    m_ColorSpace: -1
+    m_ColorSpace: 0
     m_NumColorKeys: 2
     m_NumAlphaKeys: 2
   m_InvalidColorGradient:
     serializedVersion: 2
-    key0: {r: 1, g: 0, b: 0, a: 1}
+    key0: {r: 1, g: 0, b: 0, a: 0}
     key1: {r: 1, g: 0, b: 0, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
@@ -14325,7 +14325,7 @@ MonoBehaviour:
     atime6: 0
     atime7: 0
     m_Mode: 0
-    m_ColorSpace: -1
+    m_ColorSpace: 0
     m_NumColorKeys: 2
     m_NumAlphaKeys: 2
   m_BlockedColorGradient:
@@ -14533,7 +14533,7 @@ MonoBehaviour:
       m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 4ce96079-8c4f-4683-963e-7425a4845c20
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -14545,7 +14545,7 @@ MonoBehaviour:
       m_Name: Tracking State
       m_Type: 0
       m_ExpectedControlType: Integer
-      m_Id: 
+      m_Id: aecdb4df-7705-4d8a-8979-34a0c00bcaa6
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -14569,7 +14569,7 @@ MonoBehaviour:
       m_Name: Select Value
       m_Type: 0
       m_ExpectedControlType: Axis
-      m_Id: 
+      m_Id: ba8234c1-4623-498b-84dd-0737d20f08d1
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -14593,7 +14593,7 @@ MonoBehaviour:
       m_Name: Activate Value
       m_Type: 0
       m_ExpectedControlType: Axis
-      m_Id: 
+      m_Id: 0dc93932-c18e-41c0-a937-1e5e58dcfac4
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -14617,7 +14617,7 @@ MonoBehaviour:
       m_Name: UI Press Value
       m_Type: 0
       m_ExpectedControlType: Axis
-      m_Id: 
+      m_Id: 1626e7e3-a9bd-4905-9bdd-ddac9060b86e
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -14629,7 +14629,7 @@ MonoBehaviour:
       m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: aaffe6d9-9b81-45b3-8262-c2427c2cf6b7
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -14665,7 +14665,7 @@ MonoBehaviour:
       m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: 97fd01ae-ec59-40d9-aa03-937931157817
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
